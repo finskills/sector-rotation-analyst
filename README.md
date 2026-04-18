@@ -19,7 +19,7 @@
 ## Install
 
 ```bash
-npx skills add https://github.com/your-org/finskills-skills --skill sector-rotation-analyst
+npx skills add https://github.com/finskills/sector-rotation-analyst --skill sector-rotation-analyst
 ```
 
 ## Quick Start
@@ -48,7 +48,7 @@ Claude: [Fetches sector data, ranks all 11 sectors, outputs rotation report with
 
 ## Requirements
 
-- **Finskills API Key** ([register here](https://finskills.net)): [Register at finskills.net](https://finskills.net) (free tier available) — Pro plan for sector and market summary data
+- **Finskills API Key**: [Register at finskills.net](https://finskills.net) (free tier available) — Pro plan for sector and market summary data
 
 ## License
 
