@@ -1,14 +1,15 @@
 ---
 name: Sector Rotation Analyst
-version: 1.0.0
+version: 1.0.2
 description: "Identify sector rotation opportunities across all 11 GICS sectors using relative strength, momentum, and macro regime context from the Finskills API."
 author: finskills
-homepage: https://github.com/finskills/sector-rotation-analyst
-credentials:
-  - name: FINSKILLS_API_KEY
-    description: "Finskills API key — register for free at https://finskills.net (Pro plan for sector ETF data and market summaries)"
-    required: true
-    link: https://finskills.net
+metadata:
+  openclaw:
+    requires:
+      env:
+        - FINSKILLS_API_KEY
+    primaryEnv: FINSKILLS_API_KEY
+  homepage: https://github.com/finskills/sector-rotation-analyst
 ---
 
 # Sector Rotation Analyst
