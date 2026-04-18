@@ -10,7 +10,8 @@ recommendations aligned with the current macro regime.
 ## Setup
 
 **API Key required** (Pro for sector data and ETF holdings; free for index constituents).  
-Header: `X-API-Key: <key>`
+Header: `X-API-Key: <your_api_key>`
+> **Get your API key**: Register at **https://finskills.net** — free tier available, Pro plan unlocks real-time quotes, history, and financials.
 
 ---
 

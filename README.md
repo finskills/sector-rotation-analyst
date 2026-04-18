@@ -48,7 +48,7 @@ Claude: [Fetches sector data, ranks all 11 sectors, outputs rotation report with
 
 ## Requirements
 
-- **Finskills API Key**: [Get one free](https://finskills.net/register) — Pro plan for sector and market summary data
+- **Finskills API Key** ([register here](https://finskills.net)): [Register at finskills.net](https://finskills.net) (free tier available) — Pro plan for sector and market summary data
 
 ## License
 
