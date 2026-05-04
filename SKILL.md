@@ -1,5 +1,5 @@
 ---
-name: Sector Rotation Analyst
+name: sector-rotation-analyst
 version: 1.0.2
 description: "Identify sector rotation opportunities across all 11 GICS sectors using relative strength, momentum, and macro regime context from the Finskills API."
 author: finskills
